@@ -1,10 +1,10 @@
 # NOVA AI – Cloudflare Worker Chat
 
-NOVA is a sleek, AI-powered chat interface running entirely on Cloudflare Workers. It uses state‑of‑the‑art models (Kimi K2.5, Qwen Coder, Llama 3.1) with automatic fallback, supports live streaming, rich Markdown formatting, and custom UI components.
+NOVA is a sleek, AI-powered chat interface running entirely on Cloudflare Workers. It uses state‑of‑the‑art models (Kimi K2.5, Qwen Coder) with automatic fallback, supports live streaming, rich Markdown formatting, and custom UI components.
 
 ## ✨ Features
 
-- **🧠 Multi‑Model Fallback** – Automatically tries Kimi → Qwen → Llama for maximum reliability.
+- **🧠 Multi‑Model Fallback** – Automatically tries Kimi → Qwen for maximum reliability.
 - **💬 Streaming Responses** – Real‑time token‑by‑token output with smooth rendering.
 - **🎨 Rich Formatting** – Full Markdown support plus custom tags (`<box>`, `<warn>`, `<success>`, `<card>`, `<grid>`, etc.).
 - **🌐 Two API Endpoints**  
