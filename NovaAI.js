@@ -52,7 +52,6 @@ Do NOT invent new tags. Do not explain formatting rules in your responses. Do NO
         const models = [
           "@cf/moonshotai/kimi-k2.5",
           "@cf/qwen/qwen2.5-coder-32b-instruct",
-          "@cf/meta/llama-3.1-8b-instruct"
         ];
 
         let stream;
@@ -112,7 +111,6 @@ Do NOT invent new tags. Do not explain formatting rules in your responses. Do NO
         const models = [
           "@cf/moonshotai/kimi-k2.5",
           "@cf/qwen/qwen2.5-coder-32b-instruct",
-          "@cf/meta/llama-3.1-8b-instruct"
         ];
 
         let answer;
